@@ -1,0 +1,28 @@
+{
+    "MNEMONIC": "",
+    "ETHERSCAN": "",
+    "BSCSCAN": "",
+    "WETH": "",
+    "USDC": "",
+    "USDT": "",
+    "USDC_AAVE": "",
+    "USDT_AAVE": "",
+    "ADMIN_ADDRESS": "",
+    "TRADING_SERVICE": "",
+    "FUTURE_TOKEN_FACTORY": "",
+    "FUTURE_EXCHANGE_ROUTER": "",
+    "Janex": "",
+    "EXCHANGES": [
+        ""
+    ],
+    "AAVE_LENDING_POOL": "",
+    "COMPOUND_COMPTROLLER": "",
+    "COMPOUND_USDC": "",
+    "COMPOUND_USDT": "",
+    "DO_ADD_LIQUIDITY": false,
+    "WETH_LIQUIDITY": 0.01,
+    "USDC_LIQUIDITY": 40,
+    "FUTURE_EXPIRY_DATE": "",
+    "DO_DEPOSIT": false,
+    "USDC_DEPOSIT": 1
+}

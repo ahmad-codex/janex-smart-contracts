@@ -1,0 +1,21 @@
+{
+    "MNEMONIC": "",
+    "ETHERSCAN": "",
+    "BSCSCAN": "",
+    "WETH": "",
+    "USDC": "",
+    "ADMIN_ADDRESS": "",
+    "TRADING_SERVICE": "",
+    "FUTURE_TOKEN_FACTORY": "",
+    "FUTURE_EXCHANGE_ROUTER": "",
+    "Janex": "",
+    "EXCHANGES": [
+        ""
+    ],
+    "DO_ADD_LIQUIDITY": false,
+    "WETH_LIQUIDITY": 0,
+    "USDC_LIQUIDITY": 0,
+    "FUTURE_EXPIRY_DATE": "",
+    "DO_DEPOSIT": false,
+    "USDC_DEPOSIT": 0
+}
